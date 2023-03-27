@@ -27,4 +27,4 @@ If you find a bug or have a feature request, please open an issue in the reposit
 This driver implementation is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-[STMicroelectronics](https://www.st.com/) for providing the STM32f103c8t6 microcontroller and development tools.
+- [STMicroelectronics](https://www.st.com/) for providing the STM32f103c8t6 microcontroller and development tools.
